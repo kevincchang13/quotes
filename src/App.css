@@ -2,3 +2,15 @@
   border-bottom: 2px solid black;
   text-align: center;
 }
+
+.quote-container {
+  text-align: center;
+}
+
+.quote {
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 50%
+}
